@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 11000,
+    "name": "Raidwide",
+    "damage": 40000
+  },
+  {
+    "timestamp": 18000,
+    "name": "Tankbuster",
+    "damage": 60000
+  },
+  {
+    "timestamp": 32000,
+    "name": "Oops All Cheerios",
+    "damage": 8000
+  },
+  {
+    "timestamp": 41000,
+    "name": "Raidwide",
+    "damage": 40000
+  },
+  {
+    "timestamp": 62000,
+    "name": "Oops All Cheerios 2",
+    "damage": 8000
+  },
+  {
+    "timestamp": 102000,
+    "name": "Tankbuster",
+    "damage": 60000
+  }
+]

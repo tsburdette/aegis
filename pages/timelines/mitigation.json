@@ -1,0 +1,35 @@
+[
+  {
+    "timestamp": 8000,
+    "name": "Rampart",
+    "mitigationPercent": 20,
+    "source": "Tank A",
+    "duration": 20000,
+    "cooldown": 90000
+  },
+  {
+    "timestamp": 9000,
+    "name": "Sentinel",
+    "mitigationPercent": 30,
+    "source": "Tank A",
+    "duration": 15000,
+    "cooldown": 120000
+  },
+  {
+    "timestamp": 10000,
+    "name": "Reprisal",
+    "mitigationPercent": 10,
+    "source": "Tank B",
+    "duration": 10000,
+    "cooldown": 60000
+  },
+  {
+    "timestamp": 98000,
+    "name": "Rampart",
+    "mitigationPercent": 20,
+    "source": "Tank A",
+    "duration": 20000,
+    "cooldown": 90000
+
+  }
+]
