@@ -1,5 +1,4 @@
 import Head from "next/head";
-import Image from "next/image";
 import DamageTable from "./components/DamageTable";
 import MitigationTable from "./components/MitigationTable";
 import styles from "../styles/Home.module.css";
