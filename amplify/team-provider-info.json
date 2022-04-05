@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-aegis-dev-171856-authRole",
+      "UnauthRoleArn": "arn:aws:iam::288974060712:role/amplify-aegis-dev-171856-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::288974060712:role/amplify-aegis-dev-171856-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-aegis-dev-171856-deployment",
+      "UnauthRoleName": "amplify-aegis-dev-171856-unauthRole",
+      "StackName": "amplify-aegis-dev-171856",
+      "StackId": "arn:aws:cloudformation:us-east-1:288974060712:stack/amplify-aegis-dev-171856/d8cb0f20-b45c-11ec-a8f1-123627584cc7",
+      "AmplifyAppId": "d57b1x0zzfb7t"
+    }
+  }
+}

@@ -23,8 +23,8 @@ export default function DamageTable({ data }) {
         </Tr>
       </Thead>
       <Tbody>
-        {data.map((entry) => {
-          return <DamageRow values={entry}></DamageRow>;
+        {data.map((entry, index) => {
+          return <DamageRow key={index} values={entry}></DamageRow>;
         })}
       </Tbody>
     </Table>

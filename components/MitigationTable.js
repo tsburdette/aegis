@@ -21,8 +21,8 @@ export default function MitigationTable({ data }) {
         </Tr>
       </Thead>
       <Tbody>
-        {data.map((entry) => {
-          return <MitigationRow values={entry}></MitigationRow>;
+        {data.map((entry, index) => {
+          return <MitigationRow key={index} values={entry}></MitigationRow>;
         })}
       </Tbody>
     </Table>
