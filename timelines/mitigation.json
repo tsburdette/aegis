@@ -27,7 +27,7 @@
     "timestamp": 98000,
     "name": "Rampart",
     "mitigationPercent": 20,
-    "source": "Tank A",
+    "source": "Tank B",
     "duration": 20000,
     "cooldown": 90000
 
